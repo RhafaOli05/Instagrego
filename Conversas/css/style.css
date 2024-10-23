@@ -1,0 +1,164 @@
+body{
+    background-image: linear-gradient(to right, rgb(202, 218, 247), rgba(93, 162, 240, 0.582), rgb(147, 209, 245), rgb(129, 162, 223));
+}
+h5{
+    background-color: rgb(161, 161, 161);
+    font-size: small;
+    position: absolute;
+    width: 10%;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 10px;
+    font-family: cursive;
+    opacity: 0.9;
+    top: 4%;
+    left: 50px;
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+
+img{
+    width: 6%;
+    height: 12%;
+    border-radius: 50%;
+    border: solid 3px #3a11cf;
+    position: absolute;
+    top: 5%;
+    margin-top: 5%;
+    left: 70px;
+}
+a{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h4{
+    color: rgb(0, 0, 0);
+}
+.nome{
+    margin-right: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hades_foto {
+    left: 22%;
+}
+
+.nth {
+    left: 20.5%;
+    top: 0%;
+}
+
+.ares_foto {
+    left: 44%;
+}
+
+.nta {
+    left: 42.5%;
+    top: 7%;
+}
+
+.perse_perfil {
+    left: 66%;
+}
+
+.ntp {
+    left: 64.5%;
+}
+
+.hera_perfil {
+    left: 88%;
+}
+
+.nts {
+    left: 86.5%;
+}
+
+.baixo{
+    margin-top: 13%;
+    margin-left: 4%;
+}
+
+.t{
+    margin-top: 13%;
+}
+
+.b{
+    margin-top: 13%;
+}
+
+.m{
+    margin-top: 13%;
+}
+
+.e{
+    margin-top: 13%;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+.soli{
+    color: rgb(0, 38, 255);
+    margin-left: 87%;
+}
+
+h4{
+    margin-left: 13%;
+    top: 0%;
+}
+
+.msz{
+    top: 37.5%;
+}
+
+.h{
+    top: 51%;
+}
+
+.a{
+    top: 65%;
+}
+
+.p{
+    top: 78.5%;
+}
+
+.r{
+    top: 92%;
+}
+ol img{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    border: none;
+    border-radius: 0%;
+    margin-left: 1px;
+}  
+ol{
+    height: 600px;
+    justify-content: space-around;
+    display: flex;
+    position: fixed;
+    background-image: linear-gradient(rgb(71, 98, 252), rgb(0, 153, 255), rgb(0, 204, 255));
+    width: 96%;
+    border-radius: 5px;
+    top: 90%;
+}
+ol li{
+    font-size: 20px;
+}
+ol a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+}
+
+
+
